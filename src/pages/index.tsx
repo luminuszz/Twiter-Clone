@@ -1,7 +1,8 @@
+import Layout from '@/components/Layout';
 import React from 'react';
 
 const Main: React.FC = () => {
-  return <h1>name</h1>;
+  return <Layout />;
 };
 
 export default Main;

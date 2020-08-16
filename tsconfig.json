@@ -16,7 +16,16 @@
     "moduleResolution": "node",
     "resolveJsonModule": true,
     "isolatedModules": true,
-    "jsx": "preserve"
+    "jsx": "preserve",
+
+    "baseUrl": "./src",
+  "paths": {
+    "@/components/*": ["components/*"],
+    "@/assets/*": ["assets/*"],
+    "@/styles/*": ["styles/*"],
+    "@/config/*": ["config/*"],
+    "@/hooks/*": ["hooks/*"]
+  },
   },
   "include": [
     "next-env.d.ts",
@@ -24,16 +33,10 @@
     "**/*.ts",
     "**/*.tsx"
   ],
-
-  "baseUrl":"./src",
-
-  "paths": {
-    "@/components/*": ["components/*"],
-    "@/styles/*": ["styles/*"],
-    "@/hooks/*": ["hooks/*"],
-    "@/assets/*": ["assets/*"],
-  },
-
+  "files": [
+    "src/@types/declarations.d.ts",
+    "src/@types/styles.d.ts",
+  ],
 
   "exclude": [
     "node_modules"
