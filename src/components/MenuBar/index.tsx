@@ -51,7 +51,7 @@ const MenuBar: React.FC = () => {
           <span>Tweetar</span>
         </Button>
 
-        <Colors />
+        <Colors flexDirection="column" />
       </TopSide>
       <BotSide>
         <BotSideAvatar />

@@ -1,5 +1,6 @@
 import React from 'react';
 
+import Colors from '../Colors';
 import ProfilePage from '../ProfilePage';
 import {
   Container,
@@ -25,6 +26,7 @@ const Main: React.FC = () => {
           <strong>Davi Ribeiro</strong>
           <span>260 tweets</span>
         </ProfileInfo>
+        <Colors flexDirection="row" />
       </Header>
 
       <ProfilePage />

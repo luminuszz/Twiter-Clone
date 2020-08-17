@@ -5,16 +5,29 @@ interface Props {
   color: string;
 }
 
-export const Container = styled.div`
-  display: flex;
-  flex-direction: column;
+export interface ContaienrProps {
+  flexDirection: 'row' | 'column';
+}
+
+export const Container = styled.div<ContaienrProps>`
+  display: none;
+  flex-direction: ${props => props.flexDirection};
   align-items: center;
   justify-content: center;
   margin-top: 1rem;
+
   padding: 3rem;
 
   button + button {
-    margin-top: 1rem;
+    margin-top: ${props => (props.flexDirection === 'column' ? '1rem' : 0)};
+  }
+
+  > button {
+    margin-left: ${props => (props.flexDirection === 'row' ? '1rem' : 0)};
+  }
+
+  @media (max-width: 500px) {
+    display: flex;
   }
 `;
 

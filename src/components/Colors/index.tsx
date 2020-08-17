@@ -1,9 +1,9 @@
 import { useTheme } from 'hooks/ThemeContext';
 import React, { useCallback } from 'react';
 
-import { Container, Color } from './styles';
+import { Container, Color, ContaienrProps } from './styles';
 
-const Colors: React.FC = () => {
+const Colors: React.FC<ContaienrProps> = ({ flexDirection }) => {
   const { changeTheme } = useTheme();
 
   const setTheme = useCallback(
@@ -14,12 +14,13 @@ const Colors: React.FC = () => {
   );
 
   return (
-    <Container>
+    <Container flexDirection={flexDirection}>
       <Color color="#E0245E" onClick={() => setTheme('red')} />
       <Color color="#2AAC59" onClick={() => setTheme('green')} />
       <Color color="#DC541F" onClick={() => setTheme('orange')} />
       <Color color="#794bc4" onClick={() => setTheme('purple')} />
       <Color color="#FBAD20" onClick={() => setTheme('yellow')} />
+      <Color color="#33A1F2" onClick={() => setTheme('blue')} />
     </Container>
   );
 };
