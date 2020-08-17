@@ -1,7 +1,9 @@
 import Main from '@/components/Main';
 import React from 'react';
 
-import { Container, Whapper, MenuBar } from './styles';
+import MenuBar from '../MenuBar';
+import SideBar from '../SideBar';
+import { Container, Whapper } from './styles';
 
 const Layout: React.FC = () => {
   return (
@@ -9,6 +11,7 @@ const Layout: React.FC = () => {
       <Whapper>
         <MenuBar />
         <Main />
+        <SideBar />
       </Whapper>
     </Container>
   );
