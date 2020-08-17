@@ -3,7 +3,7 @@ import {
   ThemeProvider as StyledThemeProvider,
   DefaultTheme,
 } from 'styled-components';
-import blue from 'styles/themes/blue';
+import { blue, green, orange, purple, red, yelow } from 'styles/themes';
 
 import usePersistedState from './usePersistedState';
 
@@ -19,7 +19,7 @@ const ThemeProvider: React.FC = ({ children }) => {
     '@Twiter::theme',
     blue,
   );
-  const themes = [blue];
+  const themes = [blue, green, orange, purple, red, yelow];
 
   const changeTheme = useCallback(
     (themetitle: string) => {

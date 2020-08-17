@@ -1,6 +1,7 @@
 import Button from 'components/Button';
 import React from 'react';
 
+import Colors from '../Colors';
 import {
   Container,
   TopSide,
@@ -49,6 +50,8 @@ const MenuBar: React.FC = () => {
         <Button>
           <span>Tweetar</span>
         </Button>
+
+        <Colors />
       </TopSide>
       <BotSide>
         <BotSideAvatar />

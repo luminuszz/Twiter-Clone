@@ -12,6 +12,7 @@
     "next-images": "^1.4.1",
     "next-seo": "^4.7.3",
     "next-translate": "^0.17.2",
+    "polished": "^3.6.5",
     "react": "16.13.1",
     "react-dom": "16.13.1",
     "react-sticky-box": "^0.9.3",

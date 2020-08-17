@@ -26,7 +26,7 @@ const ProfilePage: React.FC = () => {
 
         <p>
           Developer at
-          <a href="https://rockseat.com.br"> @Rockeseat</a>
+          <a href="https://rockseat.com.br"> @Empresa</a>
         </p>
 
         <ul>
@@ -36,7 +36,7 @@ const ProfilePage: React.FC = () => {
           </li>
           <li>
             <LocationIcon />
-            Nascido(a) em 27 de abril de 2000
+            Nascido(a) em 17 jan de 1997
           </li>
         </ul>
 
