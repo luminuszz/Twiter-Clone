@@ -1,5 +1,5 @@
 import styled, { css } from 'styled-components';
-import { Cake, LocationOn } from 'styles/icons';
+import { Cake, LocationOn } from 'styles/Icons';
 
 import Button from '../Button';
 

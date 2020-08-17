@@ -43,7 +43,15 @@ export const GlobalStyle = createGlobalStyle`
     --twitter: #33A1F2;
     --twitter-dark-hover: #011017;
     --twitter-light-hover: #2C8ED6;
+
+    font-size: 60%;
   }
 
+
+  @media(max-width: 700px) {
+  :root {
+    font-size: 62.5%;
+  }
+}
 
 `;

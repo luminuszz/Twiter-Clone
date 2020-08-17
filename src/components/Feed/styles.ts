@@ -10,7 +10,7 @@ export const Tab = styled.div`
   padding: 11px 0 15px;
   text-align: center;
 
-  font: bold 15px;
+  font: 1.5rem bold;
 
   outline: 0;
   cursor: pointer;
