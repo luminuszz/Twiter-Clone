@@ -1,32 +1,64 @@
+<h1 align="center">
+   
+    <brTwiter Clone <br/>
+   ReactJS | Next.js
+</h1>
+
+<p align="center">
+  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/luminuszz/Twiter-Clone?style=flat-square">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/luminuszz/Twiter-Clone?style=flat-square">
+  <img alt="GitHub" src="https://img.shields.io/github/license/luminuszz/Twiter-Clone?style=flat-square"> 
+</p>
+<p align="center">
+  <a href="#bookmark-sobre">Sobre</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#rocket-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#boom-como-executar">Como Executar</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#memo-licença">Licença</a>
+</p>
+
+<p align="center">
+  <img alt="design do projeto" width="650px" src="./.github/design.png" />
+<p>
+
+## :bookmark: About
+
+  ### Description:  
+    The **Twiter-Clone** Twiter clone is an application with the intention of copying the initial interface of twiter.
+
+  ### Motivation: 
+    Essa aplicação teve o intuito de reforçar meus conhecimentos em nextjs e na blibioteca styled componnets.
+
+## :rocket: Tecnologias
+
+-  [Typescript](https://www.typescriptlang.org/)
+-  [ReactJS](https://reactjs.org/)
+-  [Next.js](https://nextjs.org/)
+-  [styled-components](https://styled-components.com/)
 
 
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+## 💻 Run this project
 
-## Getting Started
+- ### **Requirements**
 
-First, run the development server:
+  - [Node.js](https://nodejs.org/en/)
+  - [Git](https://git-scm.com/)
+  - [NPM](https://www.npmjs.com/) ou [Yarn](https://yarnpkg.com/).
 
-```bash
-npm run dev
-# or
-yarn dev
+1. Clone o repositorio 
+```sh
+  $ git clone https://github.com/luminuszz/Twiter-Clone.git
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+2. Executando a Aplicação:
 
-You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
+```sh
+  cd Twiter-Clone
+  yarn dev
+```
 
-## Learn More
+## :memo: LICENSE
 
-To learn more about Next.js, take a look at the following resources:
+This project is under the MIT license [LICENSE](LICENSE.md).
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/import?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+---
+<sup> This Project developed with the tutorship of [Guilherme Rodz](https://github.com/guilhermerodz) from  [Rocketseat](rocketseat.com.br).</sup>
