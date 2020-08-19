@@ -44,17 +44,30 @@
   - [Git](https://git-scm.com/)
   - [NPM](https://www.npmjs.com/) ou [Yarn](https://yarnpkg.com/).
 
-1. Clone o repositorio 
+1. Clone repository
 ```sh
   $ git clone https://github.com/luminuszz/Twiter-Clone.git
 ```
 
-2. Executando a Aplicação:
+2. Run the app
 
 ```sh
   cd Twiter-Clone
   yarn dev
 ```
+
+ ## :nerd_face:	 Assets
+ - :rocket: [Production](https://twiter-clone.vercel.app/)
+ - :monocle_face:	[Post on linkedin](https://www.linkedin.com/feed/update/urn:li:activity:6701228613620006912/)
+
+ 
+ ### Me
+ - [My Github](https://github.com/luminuszz) 
+ -[My linkedin](https://www.linkedin.com/in/davi-ribeiro-luminuszz/)
+ 
+ 
+ 
+ 
 
 ## :memo: LICENSE
 
