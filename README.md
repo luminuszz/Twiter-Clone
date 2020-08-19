@@ -1,13 +1,12 @@
 <h1 align="center">
-   
-    <br/>Twitter Clone <br/>
-   ReactJS | Next.js
+    <br>Twitter-Clone<br/>
+    React.js | Next.js 
 </h1>
 
 <p align="center">
-  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/luminuszz/Twiter-Clone?style=flat-square">
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/luminuszz/Twiter-Clone?style=flat-square">
-  <img alt="GitHub" src="https://img.shields.io/github/license/luminuszz/Twiter-Clone?style=flat-square"> 
+  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/luminuszz/Twitter-Clone?style=flat-square">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/luminuszz/Twitter-Clone?style=flat-square">
+  <img alt="GitHub" src="https://img.shields.io/github/license/luminuszz/Twitter-Clone?style=flat-square"> 
 </p>
 <p align="center">
   <a href="#bookmark-sobre">Sobre</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
