@@ -13,7 +13,7 @@
   <a href="#bookmark-About">Sobre</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#rocket-Stacks">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-run-this-project">Como Executar</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#memo LICENSE">Licença</a>
+  <a href="#memo-license">License</a>
 </p>
 
 
