@@ -17,13 +17,6 @@
 </p>
 
 
-<p align="center">
-  <img  src="./Anotação 2020-08-18 210914.png" />
-   <br/>
-  <img src="./Anotação 2020-08-18 221516mobile.png" />
-<p>
-
-
 
 ## :bookmark: About
 
