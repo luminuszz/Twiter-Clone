@@ -1,6 +1,6 @@
 <h1 align="center">
    
-    <brTwiter Clone <br/>
+    <br/>Twitter Clone <br/>
    ReactJS | Next.js
 </h1>
 
