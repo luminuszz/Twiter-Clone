@@ -22,10 +22,10 @@
 ## :bookmark: About
 
   ### Description:  
-    The **Twiter-Clone** Twiter clone is an application with the intention of copying the initial interface of twiter.
+   The **Twiter-Clone** Twiter clone is an application with the intention of copying the initial interface of twiter.
 
   ### Motivation: 
-    Essa aplicação teve o intuito de reforçar meus conhecimentos em nextjs e na blibioteca styled componnets.
+   Essa aplicação teve o intuito de reforçar meus conhecimentos em nextjs e na blibioteca styled componnets.
 
 ## :rocket: Tecnologias
 
