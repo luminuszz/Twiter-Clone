@@ -16,11 +16,16 @@
   <a href="#memo-licença">Licença</a>
 </p>
 
-<p align="center">
-  <img width="500px" src="./Mockup-Generated-by-Dunnnk.jpg" />
-<p>
+
 
 ## :bookmark: About
+
+
+<p align="center">
+  <img width="500px" src="./Anotação 2020-08-18 210914.png" />
+   <br/>
+  <img width="500px" src="./Anotação 2020-08-18 221516mobile.png" />
+<p>
 
   ### Description:  
    The **Twiter-Clone** Twiter clone is an application with the intention of copying the initial interface of twiter.
