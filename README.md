@@ -28,7 +28,7 @@
   ### Motivation: 
    Essa aplicação teve o intuito de reforçar meus conhecimentos em nextjs e na blibioteca styled componnets.
 
-## :rocket: Tecnologias
+## :rocket: Stacks
 
 -  [Typescript](https://www.typescriptlang.org/)
 -  [ReactJS](https://reactjs.org/)
