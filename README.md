@@ -61,7 +61,7 @@
  
  ### Me
  - [My Github](https://github.com/luminuszz) 
- -[My linkedin](https://www.linkedin.com/in/davi-ribeiro-luminuszz/)
+ - [My linkedin](https://www.linkedin.com/in/davi-ribeiro-luminuszz/)
  
  
  
