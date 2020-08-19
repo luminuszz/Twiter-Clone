@@ -17,7 +17,7 @@
 </p>
 
 <p align="center">
-  <img width="350px" src="./Mockup-Generated-by-Dunnnk.jpg" />
+  <img width="500px" src="./Mockup-Generated-by-Dunnnk.jpg" />
 <p>
 
 ## :bookmark: About
