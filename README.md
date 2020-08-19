@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="Twitter-Clone src="./ETqklGRWsAYEpz6.png"/>
+    <img alt="Twitter-Clone" src="./ETqklGRWsAYEpz6.png"/>
     <br>Twitter-Clone<br/>
     React.js | Next.js 
 </h1>
